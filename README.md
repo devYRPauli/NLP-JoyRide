@@ -6,6 +6,14 @@ JoyRide_NLP is a data science project aimed at analyzing customer reviews of veh
 
 The JoyRide_NLP project leverages customer review data from various vehicles, encompassing aspects such as vehicle performance, features, and overall satisfaction. Through the application of NLP methodologies, the project seeks to uncover patterns and trends that can guide potential buyers, manufacturers, and enthusiasts in making informed decisions and understanding market dynamics.
 
+## Team Members
+
+- Abhinav Ayral
+- Ansh Khatri
+- Ayushma Joshi
+- Ria Mahajan
+- Yash Raj Pandey
+
 ## Dataset
 
 The dataset contains reviews collected for different vehicle models, including detailed information such as:
@@ -33,21 +41,19 @@ Ensure you have the following installed:
 
 ### Installation
 
-Clone the repository or download the Jupyter Notebook to your local machine:
+- Clone the repository or download the Jupyter Notebook to your local machine:
 
 git clone <https://github.com/devYRPauli/NLP-JoyRide>
 
-Install the required Python packages:
+- Install the required Python packages:
 
 pip install pandas numpy sklearn matplotlib nltk
-
 
 ### Running the Notebook
 
 Open the Jupyter Notebook in your preferred environment:
 
 jupyter notebook JoyRide_NLP.ipynb
-
 
 Follow the instructions within the notebook to run the analyses.
 
