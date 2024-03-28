@@ -43,7 +43,7 @@ Ensure you have the following installed:
 
 - Clone the repository or download the Jupyter Notebook to your local machine:
 
-git clone <https://github.com/devYRPauli/NLP-JoyRide>
+- - git clone <https://github.com/devYRPauli/NLP-JoyRide>
 
 - Install the required Python packages:
 
