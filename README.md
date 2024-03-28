@@ -1,10 +1,10 @@
-# JoyRide_NLP
+# JoyRide
 
-JoyRide_NLP is a data science project aimed at analyzing customer reviews of vehicles. Utilizing Natural Language Processing (NLP) techniques, this project extracts valuable insights from textual data to understand consumer sentiments, preferences, and common themes in vehicle reviews.
+JoyRide is a data science project aimed at analyzing customer reviews of vehicles. Utilizing Natural Language Processing (NLP) techniques, this project extracts valuable insights from textual data to understand consumer sentiments, preferences, and common themes in vehicle reviews.
 
 ## Project Overview
 
-The JoyRide_NLP project leverages customer review data from various vehicles, encompassing aspects such as vehicle performance, features, and overall satisfaction. Through the application of NLP methodologies, the project seeks to uncover patterns and trends that can guide potential buyers, manufacturers, and enthusiasts in making informed decisions and understanding market dynamics.
+The JoyRide project leverages customer review data from various vehicles, encompassing aspects such as vehicle performance, features, and overall satisfaction. Through the application of NLP methodologies, the project seeks to uncover patterns and trends that can guide potential buyers, manufacturers, and enthusiasts in making informed decisions and understanding market dynamics.
 
 ## Team Members
 
