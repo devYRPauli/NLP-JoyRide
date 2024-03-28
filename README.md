@@ -51,11 +51,11 @@ Ensure you have the following installed:
 
 ### Running the Notebook
 
-Open the Jupyter Notebook in your preferred environment:
+- Open the Jupyter Notebook in your preferred environment:
 
-jupyter notebook JoyRide_NLP.ipynb
+  - jupyter notebook JoyRide_NLP.ipynb
 
-Follow the instructions within the notebook to run the analyses.
+- Follow the instructions within the notebook to run the analyses.
 
 ## Features
 
